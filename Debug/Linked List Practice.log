@@ -1,0 +1,4 @@
+﻿  Linked List Practice.cpp
+d:\online programming courses\udemy courses\data structures concepts & singly linked list\linked list practice\linked list practice.cpp(28): warning C4101: 'pos': unreferenced local variable
+d:\online programming courses\udemy courses\data structures concepts & singly linked list\linked list practice\linked list practice.cpp(27): warning C4101: 'choice1': unreferenced local variable
+  Linked List Practice.vcxproj -> D:\Online Programming Courses\Udemy Courses\Data Structures Concepts & Singly Linked List\Linked List Practice\Debug\Linked List Practice.exe
